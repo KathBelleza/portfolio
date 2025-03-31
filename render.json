@@ -1,0 +1,9 @@
+{
+  "name": "kathereen-belleza-portfolio",
+  "type": "static-site",
+  "buildCommand": "npm run build",
+  "startCommand": "npx serve -s build",
+  "env": {
+    "RENDER_NODE_VERSION": "18"
+  }
+}
