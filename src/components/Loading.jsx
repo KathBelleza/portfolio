@@ -54,7 +54,7 @@ const Loading = ({ onLoadingComplete }) => {
               mb: 2,
             }}
           >
-            Hello, Welcome to My Portfolio
+            Hello, Welcome to my Portfolio
           </Typography>
           <motion.div
             animate={{

@@ -6,21 +6,21 @@ import Language from '@mui/icons-material/Language';
 const projects = [
   {
     title: 'Project 1',
-    description: 'A modern web application with a clean and intuitive interface',
+    description: 'A application where users can track their schedules and tasks',
     image: '/trackem.png',
     github: '#',
     live: '#',
   },
   {
     title: 'Project 2',
-    description: 'Responsive e-commerce platform with advanced features',
+    description: 'A web application where users can track their scores',
     image: '/iskor.png',
     github: '#',
     live: '#',
   },
   {
     title: 'Project 3',
-    description: 'A full-stack web application with a beautiful UI',
+    description: 'A website where students can track their todos',
     image: '/awesometodos.png',
     github: '#',
     live: '#',
