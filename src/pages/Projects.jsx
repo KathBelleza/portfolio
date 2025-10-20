@@ -25,6 +25,11 @@ const projects = [
     github: '#',
     live: '#',
   },
+{ title: 'Project 4',
+    description: 'A web application where farmers and customer can use, it is simple yet powerful tool designed to help farmers stay informed about real-time market prices for their crop. ',
+    image: '/anisave.png',
+    github: '#',
+    live: '#',}
 ];
 
 const Projects = () => {
